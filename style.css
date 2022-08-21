@@ -1,0 +1,180 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+html{
+  background-image: url(https://d33wubrfki0l68.cloudfront.net/5c71bc45356f2b550ac87b19eb115007e5b0953b/78d8d/static/waves_violet-37d9022b34fe32b9a566104ee1b0b8e9.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow-y: hidden;
+  height: 100vh;
+}
+
+
+.plr10{
+  padding: auto 10%;
+}
+
+.c {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  text-align: center;
+  vertical-align: center;
+}
+
+.b {
+  font-weight: bold;
+}
+
+.bb {
+  font-weight: bolder;
+}
+
+.brf {
+  border-radius: 100%;
+}
+
+.m3 {
+  margin: 3%;
+}
+
+.m5 {
+  margin: 5%;
+}
+
+.m9 {
+  margin: 9%;
+}
+
+.show {
+  border: 2px solid red;
+}
+
+.iline {
+  display: inline;
+}
+
+.ilineb {
+  display: inline-block;
+}
+
+.block {
+  display: block;
+}
+
+.ilf {
+  display: inline-flex;
+}
+
+.fb {
+  display: flexbox;
+}
+
+.c2 {
+  columns: 2;
+}
+
+.c3 {
+  columns: 3;
+}
+
+.blue {
+  color: blue;
+}
+
+.white {
+  color: white;
+}
+
+.p5 {
+  padding: 5%;
+}
+
+.p0{
+  padding: 0%;
+}
+
+.p2{
+  padding: 2%;
+}
+
+.m0{
+  margin: 0%;
+}
+
+.f2{
+  font-size: 2rem;
+}
+
+.f3{
+  font-size: 3rem;
+}
+
+.foh{
+  font-size: 1.5rem;
+}
+
+.nols{
+  list-style: none;
+}
+
+/* .bgblack{
+  background-color: black;
+} */
+
+.fr{
+  float: right;
+}
+
+.s1btn{
+ padding: 0.5rem 2rem;
+ font-size: 1.5rem;
+ border-radius: 5%;
+ font-weight: bolder;
+ background-color: transparent;
+ outline: none;
+ color: white;
+ border: 2px solid white;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.r{
+  text-align: right;
+
+}
+
+.s1btn:hover{
+  border: black;
+  color: black;
+  background-color: white;
+}
+
+
+.i{
+  margin: 0% 10% 0% 4%;
+}
+
+.menu{
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.foot{
+  position: relative;
+  margin: 5vh 0% 0% 0%;
+}
+
+
+
+body{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.foot{
+  margin-top: auto;
+}
